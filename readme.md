@@ -6,6 +6,8 @@ consider this (for me)
 
 2. lockfile: helps in installing pkgs using your cli on other places than your project.
 
+<br>
+
 ### preassumptions while building pm69
 
 1. if there is a .pm69 folder in current dir,use project scope.
@@ -20,4 +22,4 @@ consider this (for me)
 
 4. we maybe leaving pkg dependencies. like let's say two packages use same dependecy, but they are using diff versions, which can cause conflicts.
 
-5. ~
+5.
