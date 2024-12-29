@@ -1,5 +1,7 @@
 # pm69 -- a package manager.
 
+i'm building this currently.
+
 consider this (for me)
 
 1. versions for pkgs or repos. support for "latest". we store the latest version in local spec, not the "latest" keyword.
@@ -23,3 +25,11 @@ consider this (for me)
 4. we maybe leaving pkg dependencies. like let's say two packages use same dependecy, but they are using diff versions, which can cause conflicts.
 
 5.
+
+<br>
+
+resources :
+
+- https://antonz.org/writing-package-manager/
+
+- https://github.com/nalgeon/sqlpkg-cli
